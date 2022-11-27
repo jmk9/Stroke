@@ -5,6 +5,6 @@ model weight download
 > https://www.notion.so/Stroke-AI-Contest-13e5bc17aaac4b82a1b80465fff34684
 <br/>
 Dataset
-Findings | Conclusion | Acutelnfarction   
------|-----|-----   
-문장|문장|Label   
+|Findings|Conclusion|Acutelnfarction|
+|-----|-----|-----|
+|문장|문장|Label|
