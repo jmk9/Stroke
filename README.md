@@ -7,9 +7,11 @@ model weight download
 
 * Dataset<br/>
 <br/>
+
 |Findings|Conclusion|Acutelnfarction|
 |--------|----------|---------------|
 |문장    |문장       |Label          |
+
 <br/>
 위와 같은 form으로 된 csv format data<br/>
 문장은 영어와 한글이 혼용된 이중언어 문장임.<br/>
