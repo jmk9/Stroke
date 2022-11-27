@@ -5,6 +5,7 @@ model weight download
 > https://www.notion.so/Stroke-AI-Contest-13e5bc17aaac4b82a1b80465fff34684
 <br/>
 * Dataset<br/>
+
 |Findings|Conclusion|Acutelnfarction|<br/>
 |-----|-----|-----|<br/>
 |문장|문장|Label|<br/>
