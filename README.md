@@ -8,5 +8,5 @@ model weight download
 * Dataset<br/>
 
 |Findings|Conclusion|Acutelnfarction|<br/>
-|-----|-----|-----|<br/>
-|문장|문장|Label|<br/>
+|--------|----------|---------------|<br/>
+|문장    |문장       |Label          |<br/>
