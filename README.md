@@ -13,6 +13,6 @@ model weight download
 위와 같은 form으로 된 csv format data<br/>
 문장은 영어와 한글이 혼용된 이중언어 문장임.<br/>
 <br/>
-* task
 
+* task
 data를 input으로 넣으면 뇌졸중 여부를 0, 1로 classification.
